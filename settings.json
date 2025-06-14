@@ -1,0 +1,6 @@
+{
+    "server_ip": "localhost",
+    "server_port": 3000,
+    "video_path": "videos/shrek.mp4",
+    "password": "password"
+}
